@@ -9,7 +9,7 @@ Passionate and inquisitive full stack developer with 7 years' experience. Expert
 * 🌍  I'm based in Lisbon / London
 * 🖥️  See my portfolio at [holabrunnen.com](http://www.holabrunnen.com/)
 * 🚀  I'm currently working on [This amazing website accessibility checker](http://sitemorse.com/check)
-* 🧠  I'm learning All things Python (and the weird bits of JavaScript)
+* 🧠  I'm deepening my knowledge on data structures
 
 ### Skills
 
@@ -28,13 +28,3 @@ Passionate and inquisitive full stack developer with 7 years' experience. Expert
 
 <p align="left">English | Spanish | Portuguese</p>
 
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/cjbrunnen"><img src="https://github-readme-stats.vercel.app/api?username=cjbrunnen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="cjbrunnen's GitHub stats" /></a>
-
-<a href="http://www.github.com/cjbrunnen"><img src="https://github-readme-streak-stats.herokuapp.com/?user=cjbrunnen&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/cjbrunnen"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=cjbrunnen&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
