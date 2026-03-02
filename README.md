@@ -7,9 +7,8 @@ Full Stack Web Developer
 Passionate and inquisitive full stack developer with 7 years' experience. Expertise in React, Typescript, Python, Django, and Node. Experienced in agency, product-based and startup environments, dedicated to upholding accessibility standards and utilising emerging technology for positive impact.
 
 * 🌍  I'm based in Lisbon / London
-* 🖥️  See my portfolio at [holabrunnen.com](http://www.holabrunnen.com/)
-* 🚀  I'm currently working on [This amazing website accessibility checker](http://sitemorse.com/check)
-* 🧠  I'm deepening my knowledge on data structures
+* 🚀  I'm a digital accessibility expert. Check out my services on [my website](https://digitalaccessibilitystudio.com)
+* 🧠  I'm always deepening my knowledge on WCAG and emerging technology
 
 ### Skills
 
