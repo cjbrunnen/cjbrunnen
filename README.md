@@ -1,16 +1,16 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Caz
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 ===========================================================================================================================
 
 Full Stack Web Developer
 ------------------------
 
-Passionate and inquisitive full stack developer with 7 years' experience. Expertise in React, Typescript, Python, Django, and Node. Experienced in agency, product-based and startup environments, dedicated to upholding accessibility standards and utilising emerging technology for positive impact.
+Passionate and inquisitive full stack developer with 8+ years' experience. Expertise in React, Typescript, Python, Django, and Node. Experienced in agency, product-based and startup environments, dedicated to upholding accessibility standards and utilising emerging technology for positive impact.
 
 * 🌍  I'm based in Lisbon / London
 * 🚀  I'm a digital accessibility expert. Check out my services on [my website](https://digitalaccessibilitystudio.com)
-* 🧠  I'm always deepening my knowledge on WCAG and emerging technology
+* 🧠  I'm slightly obsessed with where AI is taking us and the new capabilities that will soon emerge
 
-### Skills
+### Technologies I've worked with over the years
 
 
 <p align="left">
