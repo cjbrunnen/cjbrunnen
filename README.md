@@ -7,7 +7,7 @@ Full Stack Web Developer
 Passionate and inquisitive full stack developer with 8+ years' experience. Expertise in React, Typescript, Python, Django, and Node. Experienced in agency, product-based and startup environments, dedicated to upholding accessibility standards and utilising emerging technology for positive impact.
 
 * 🌍  I'm based in Lisbon / London
-* 🚀  I'm a digital accessibility expert. Check out my services on [my website](https://digitalaccessibilitystudio.com)
+* 🚀  I'm a digital accessibility expert. Check out my services on [my website](https://impactfocus.co/services/digital-accessibility/)
 * 🧠  I'm slightly obsessed with where AI is taking us and the new capabilities that will soon emerge
 
 ### Technologies I've worked with over the years
